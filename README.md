@@ -1,7 +1,7 @@
 ## Feature:
 
 - Nextjs 14
-- Shadcn
+- Tailwindcss + Shadcn
 - Prisma
 - Clerk
 
